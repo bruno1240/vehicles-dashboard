@@ -2,7 +2,7 @@
 
 Aplicativo web em **Streamlit** para explorar cerca de 51 mil anúncios de carros usados nos EUA (`vehicles_us.csv`, maio/2018 a abril/2019). Ele ajuda a entender como preço, quilometragem, idade, condição e tipo do veículo se relacionam.
 
-**App online:** https://<NOME-DO-APP>.onrender.com
+**App online:** https://vehicles-dashboard-wjhj.onrender.com/
 
 ## Funcionalidades
 
